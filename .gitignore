@@ -1,0 +1,11 @@
+# Spotify token file
+spotify_token.json
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment specific files
+.env
