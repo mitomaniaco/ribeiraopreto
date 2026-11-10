@@ -1,6 +1,8 @@
 # Spotify Lyrics Overlay
 
-This application displays synchronized lyrics for the currently playing song on Spotify in a modern, customizable overlay window.
+Puts the lyrics of whatever is playing on Spotify on top of everything else — current and upcoming
+line, synced, in an overlay window you can drag anywhere. Python + PySide6, with a tray icon and no
+browser involved.
 
 ## Features
 
@@ -114,5 +116,4 @@ Feel free to fork the repository, make improvements, and submit pull requests.
 
 ## License
 
-This project is open source. Please check for a `LICENSE` file for more details (currently not provided).
-*(Developer Note: Consider adding a `LICENSE` file, e.g., MIT License.)*
+No license file yet — the code is published as-is. If you want to reuse it, open an issue and I'll pick a license.
